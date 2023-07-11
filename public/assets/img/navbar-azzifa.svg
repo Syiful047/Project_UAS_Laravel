@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 228.66 39.08"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="navbar-azzifa.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36">
+    <rect
+       x="-14.524683"
+       y="-12.449728"
+       width="275.96897"
+       height="79.678259"
+       id="rect39909" />
+    <rect
+       x="236.12984"
+       y="46.893975"
+       width="273.47902"
+       height="53.118839"
+       id="rect16365" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.4096912"
+     inkscape:cx="130.09966"
+     inkscape:cy="2.9049365"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <style
+     id="style2">.cls-1{fill:#fed136;}</style>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:47.3558px;line-height:1.25;font-family:sans-serif;fill:#fed136;fill-opacity:1;stroke:none;stroke-width:1.18389"
+     x="12.304428"
+     y="37.233067"
+     id="text4163"><tspan
+       sodipodi:role="line"
+       id="tspan4161"
+       x="12.304428"
+       y="37.233067"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#fed136;fill-opacity:1;stroke-width:1.18389">Zifa Store</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text16363"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect16365)" />
+  <text
+     xml:space="preserve"
+     id="text39907"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect39909)" />
+</svg>
