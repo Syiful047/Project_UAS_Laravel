@@ -30,7 +30,7 @@
                         <li class="nav-item"><a class="nav-link" href="#product">Produk</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li> 
+                        <li class="nav-item"><a class="nav-link" href="#contact">Berlangganan</a></li> 
                         <!-- admin -->
                         @if (auth()->check() && auth()->user()->role == 'admin')
                         <li class="nav-item"><a class="nav-link" href="{{url('admin/')}}">Dashboard</a></li>          
@@ -103,7 +103,7 @@
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2023</div>
+                    <div class="col-lg-4 text-lg-start">ZifaStore &copy; Your Website 2023</div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>

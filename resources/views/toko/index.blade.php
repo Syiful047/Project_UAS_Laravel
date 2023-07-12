@@ -41,42 +41,38 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/ap.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
+                                <h4 class="subheading">Zifa Store</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Zifa Store adalah Apple Premium Reseller di Indonesia yang mengkhususkan diri dalam produk-produk Apple dan pelengkap.
-</p></div>
+                            <div class="timeline-body"><p class="text-muted">Zifa Store adalah Apple Premium Reseller di Indonesia yang mengkhususkan diri dalam produk-produk Apple dan Aksessoris Apple.</p>
+                        </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/help.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4 class="subheading">Help</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">Jika Anda ingin bantuan atau memiliki masukan, silahkan hubungi kami: 
-                                Jam 9:30 - 17:30 (Senin s.d. Jumat) 
-                                Jam 9:30 - 15:00 (Sabtu) 
-                                Email : customercare@zifastore.com 
-                                Phone : 1500372 
-                                WA : 0821 2378 8235</p>
+                            <br>    Jam 9:30 - 17:30 (Senin s.d. Jumat)
+                            <br>    Jam 9:30 - 15:00 (Sabtu) 
+                            <br>    Email : customercare@zifastore.com 
+                            <br>    Phone : 1500372 
+                            <br>    WA : 0821-2378-8235</p>
                             </div>
                         </div>
-                    </li>
-                    
-                    
+                    </li>          
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>
-                                Be Part
+                                Supported
                                 <br />
-                                Of Our
+                                By
                                 <br />
-                                Story!
+                                STT-NF
                             </h4>
                         </div>
                     </li>
@@ -184,9 +180,6 @@
                     <div class="d-none" id="submitSuccessMessage">
                         <div class="text-center text-white mb-3">
                             <div class="fw-bolder">Form submission successful!</div>
-                            To activate this form, sign up at
-                            <br />
-                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
                         </div>
                     </div>
                     <!-- Submit error message-->
